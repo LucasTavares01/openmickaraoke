@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&family=Stick+No+Bills:wght@200..800&family=ZCOOL+KuaiLe&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;/*para responsividade*/
+}
+
+body{
+    background-image: url(imagens/planodefundo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;    
+    font-family: 'Staatliches', sans-serif;
+    margin: 0;
+}
