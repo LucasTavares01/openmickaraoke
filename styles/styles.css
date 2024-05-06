@@ -4,13 +4,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;/*para responsividade*/
+
 }
 
 body{
-    background-image: url(imagens/planodefundo.png);
-    background-size: cover;
+    background-color: rgb(137, 33, 223);
+    background-image: url(imagens/planodefundo.png);    
+    background-size: center center;
     background-repeat: no-repeat;
-    background-position: center;    
+    background-position: center;
     font-family: 'Staatliches', sans-serif;
     margin: 0;
 }
